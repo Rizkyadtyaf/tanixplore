@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .shadow-light {
+        @apply shadow-[2px_2px_2px_rgba(0,0,0,0.15),-2px_-2px_2px_rgba(255,255,255,0.8)];
+    }
+}
