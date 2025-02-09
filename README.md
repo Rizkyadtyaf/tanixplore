@@ -5,7 +5,6 @@ Aplikasi ini bertujuan untuk **membantu para petani menjual hasil panen nya seca
 
 ## 🚀 Teknologi yang Digunakan  
 - **Laravel 11** sebagai framework utama  
-- **Vite** untuk pengelolaan aset frontend  
 - **Tailwind CSS** untuk styling antarmuka  
 - **MySQL** sebagai database  
 - **Composer & NPM** untuk manajemen dependensi
